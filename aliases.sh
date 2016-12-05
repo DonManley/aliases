@@ -1,2 +1,3 @@
-s=sudo
+alias s=sudo
 ls=ls
+
