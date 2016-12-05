@@ -1,3 +1,3 @@
 alias s=sudo
-ls=ls
+alias ls=ls
 
